@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "appium-flutter-driver": "^2.2.0",
+    "appium-flutter-finder": "^0.2.0",
+    "webdriverio": "^8.20.4"
+  }
+}
